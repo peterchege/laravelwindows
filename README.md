@@ -1,0 +1,1 @@
+# laravel confirguration for windows
