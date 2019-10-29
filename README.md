@@ -1,1 +1,1 @@
-# laravel confirguration for windows
+# laravel confirguration for windows using vagrant box
